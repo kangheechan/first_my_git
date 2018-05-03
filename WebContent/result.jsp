@@ -11,10 +11,6 @@
 <body>
 	<ul>
 		<li>첫번째리스트</li>
-		<li>두번째리스트</li>
-		<li>세번째리스트</li>
-		<li>네번째리스트</li>
-		<li>다섯번째리스트</li>
 	</ul>
 </body>
 <script></script>

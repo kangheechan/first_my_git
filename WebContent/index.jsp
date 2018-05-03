@@ -11,7 +11,6 @@
 <body>
 	<h3>로그인 페이지</h3>
 </body>
-
 <form action="">
 <table>
 	<tr>
@@ -27,6 +26,5 @@
 	</tr>
 </table>
 </form>
-
 <script></script>
 </html>

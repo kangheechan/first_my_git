@@ -9,9 +9,11 @@
 <style></style>
 </head>
 <body>
-	<ul>
-		<li>첫번째리스트</li>
-	</ul>
+	<ol>
+		<li>리스트1</li>
+		<li>리스트2</li>
+		<li>리스트3</li>
+	</ol>
 </body>
 <script></script>
 </html>
